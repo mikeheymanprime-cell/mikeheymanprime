@@ -2,6 +2,8 @@
 
 Editor of [CricPage](https://cricpage.com)
 
+CricPage covers ICC Rankings, international cricket schedules, player records, scorecards, and cricket news.
+
 ## Cricket Resources
 
 - [ICC Rankings](https://cricpage.com/icc-rankings/)
